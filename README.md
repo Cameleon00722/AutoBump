@@ -8,5 +8,5 @@ Fonctionnement :
 Lancer le logiciel via l'invite de commande ou cmd en faisant la commande python3 Discordbot.py
 ( ne pas oublier de faire pointer votre cmd vers le dossier ou se situe le fichier)
 
-vous disposez mtn de 2s pour placez votre curseur sur la zone de saisie de discord et voilà 
+vous disposez maintenant de 2s pour placez votre curseur sur la zone de saisie de discord et voilà 
 le bot va automatiquement envoyé un message toute les 2h tout en mettant des temps de pose aléatoire pour éviter une détection
