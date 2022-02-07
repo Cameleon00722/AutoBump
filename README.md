@@ -3,6 +3,7 @@ automatise le !d bump pour booster votre discord toute les 2h
 prérequis :
  - avoir téléchargé le package et l'avoir mis sur son bureau
  - avoir python 3
+ - avoir réalisé la commande pip install pyautogui
 
 Fonctionnement :
 Lancer le logiciel via l'invite de commande ou cmd en faisant la commande python3 Discordbot.py
