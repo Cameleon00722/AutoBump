@@ -1,4 +1,4 @@
-#automatise le !d bump pour booster votre discord toute les 2h
+automatise le !d bump pour booster votre discord toute les 2h
 
 prérequis :
  - avoir téléchargé le package et l'avoir mis sur son bureau
